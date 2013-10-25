@@ -1,9 +1,7 @@
 require 'spec_helper'
 
 describe Dijkstra do
-  describe '#tpm' do
-    it 'will fail' do
-      expeect(subject.tpm).to eql true
-    end
+  it 'should be' do
+    subject.should be
   end
 end

@@ -1,6 +1,7 @@
 require 'spec_helper'
 
 describe Dijkstra::Path do
-  describe '#distance' do
+  it 'should be' do
+    Dijkstra::Path.should be
   end
 end
