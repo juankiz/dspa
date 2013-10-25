@@ -1,4 +1,5 @@
-require 'djikstra/djikstra'
-require 'djikstra/graph'
-require 'djikstra/node'
-require 'djikstra/path'
+RSpec.configure do |c|
+  c.color = true
+end
+
+require 'dijkstra'

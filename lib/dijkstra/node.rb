@@ -1,4 +1,4 @@
-module Djikstra
+module Dijkstra
   class Node
 
   end

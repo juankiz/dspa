@@ -1,9 +1,11 @@
 require 'spec_helper'
 
-describe Djikstra::Node do
-  describe '#tpm' do
-    it 'will fail' do
-      expeect(Node.tpm).to eql true
-    end
+describe Dijkstra::Node do
+  describe '#initial?' do
   end
+
+  describe '#current?' do
+  end
+
+
 end

@@ -1,4 +1,5 @@
-module Djikstra
+module Dijkstra
   class Graph
+
   end
 end
